@@ -1,100 +1,49 @@
-# TutorialsNinja E-Commerce Automation Framework
+# Automation_with_PYTHON
 
-## 📌 Project Overview
+A collection of Python automation scripts, practice exercises, training modules, and capstone projects developed during automation training.
 
-This project is a Selenium-based Web Automation Framework developed using **Python, Selenium WebDriver, PyTest, Page Object Model (POM), CSV Test Data, Configuration Management, Screenshots, and HTML Reporting**.
+## Student Details
 
-The framework automates the login and product search functionalities of the **TutorialsNinja Demo E-Commerce application**.
+| **Detail**                  | **Information**                                  |
+| --------------------------- | ------------------------------------------------ |
+| **Name**                    | Rudranil Mallik                                  |
+| **College**                 | Institute of Engineering and Management, Kolkata |
+| **Course / Degree**         | Bachelor of Technology                           |
+| **Branch / Specialization** | Computer Science & Technology                    |
+| **Academic Year**           | 2023–2027                                        |
+| **Training / Program**      | Wipro Training Program                           |
 
-The main objective is to demonstrate how a scalable and maintainable Selenium automation framework can be designed using industry-standard automation practices.
+## Repository Contents
 
----
+* **Automation Lab Workbook & Demonstrations** — Selenium, Unit Testing, API Automation & BDD, and Robot Framework modules
+* **Capstone Project_2** — Selenium Python Automation Framework using PyTest, unittest and Page Object Model
+* **Capstone Project** — Python API Automation Framework using Requests and Behave BDD
+* **Certificates** — Training and certification records
 
-## 🌐 Application Under Test
+## Technologies Covered
 
-**Application:** TutorialsNinja Demo E-Commerce Website
+**Python · Selenium WebDriver · PyTest · unittest · Page Object Model **
 
-**URL:** https://tutorialsninja.com/demo/
+## Projects
 
-The application provides common e-commerce functionalities such as:
+### Capstone Project_2 — Selenium Python Automation Framework
 
-- User Login
-- Product Search
-- Product Categories
-- Product Details
-- Shopping Cart
-- Account Management
+A modular Selenium automation framework demonstrating:
 
----
+* Page Object Model (POM)
+* PyTest and unittest
+* Configuration Management
+* CSV Test Data Handling
+* Reusable Utility Classes
+* Explicit Waits
+* Automatic Screenshots
+* Execution Logging
+* HTML Reporting
+* Headless Execution
 
-# 🎯 Project Objectives
+**Technologies:** Python · Selenium WebDriver · PyTest · unittest · POM
+### Capstone Project — Python API Automation Framework
 
-The main objectives of this project are:
+A Python-based API automation framework developed using **Requests and Behave BDD**, covering API authentication and User CRUD operations with reusable API clients, configuration management, test data, logging, and reporting.
 
-- Automate web application functionality using Selenium WebDriver.
-- Implement the Page Object Model (POM).
-- Use PyTest for test execution.
-- Demonstrate Unittest integration.
-- Implement reusable utility classes.
-- Read test data from CSV files.
-- Manage configuration using `config.ini`.
-- Implement explicit waits for stable test execution.
-- Capture screenshots automatically when tests fail.
-- Generate HTML execution reports.
-- Create a maintainable and scalable automation framework.
 
----
-
-# 🛠️ Technologies Used
-
-| Technology | Purpose |
-|------------|---------|
-| Python | Programming Language |
-| Selenium WebDriver | Web Browser Automation |
-| PyTest | Test Execution Framework |
-| Unittest | Unit Testing Demonstration |
-| Page Object Model | Framework Design Pattern |
-| Chrome WebDriver | Browser Automation |
-| CSV | Test Data Management |
-| ConfigParser | Configuration Management |
-| PyTest HTML | HTML Test Reporting |
-
----
-
-# 📂 Project Structure
-
-```text
-TutorialsNinja_Automation/
-│
-├── config/
-│   └── config.ini
-│
-├── pages/
-│   ├── base_page.py
-│   ├── login_page.py
-│   ├── home_page.py
-│   └── search_page.py
-│
-├── tests/
-│   ├── test_login.py
-│   ├── test_search.py
-│   └── test_unittest.py
-│
-├── utilities/
-│   ├── config_reader.py
-│   ├── csv_reader.py
-│   └── screenshot.py
-│
-├── test_data/
-│   └── testdata.csv
-│
-├── screenshots/
-│   └── failure_screenshots.png
-│
-├── reports/
-│   └── report.html
-│
-├── conftest.py
-├── pytest.ini
-├── requirements.txt
-└── README.md
