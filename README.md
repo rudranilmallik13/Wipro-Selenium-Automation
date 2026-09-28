@@ -26,7 +26,7 @@ A collection of Python automation scripts, practice exercises, training modules,
 
 ## Projects
 
-### Capstone Project_2 — Selenium Python Automation Framework
+### Capstone Project_2 —  Selenium Python Framework Development (Unittest + PyTest + POM)
 
 A modular Selenium automation framework demonstrating:
 
@@ -41,6 +41,4 @@ A modular Selenium automation framework demonstrating:
 * Headless Execution
 
 **Technologies:** Python · Selenium WebDriver · PyTest · unittest · POM
-### Capstone Project — Selenium Python Framework Development (Unittest + PyTest + POM)
-
 
