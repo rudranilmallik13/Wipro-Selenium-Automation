@@ -7,6 +7,7 @@ A collection of Python automation scripts, practice exercises, training modules,
 | **Detail**                  | **Information**                                  |
 | --------------------------- | ------------------------------------------------ |
 | **Name**                    | Rudranil Mallik                                  |
+| **Enrollment No.**          | 12023002022194                                   |
 | **College**                 | Institute of Engineering and Management, Kolkata |
 | **Course / Degree**         | Bachelor of Technology                           |
 | **Branch / Specialization** | Computer Science & Technology                    |
